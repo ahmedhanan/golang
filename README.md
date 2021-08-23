@@ -4,4 +4,4 @@ This repository contains all my projects which I created while learning to code 
 
 ## Projects
 
-1. Webservices
+1. Basic Web App
